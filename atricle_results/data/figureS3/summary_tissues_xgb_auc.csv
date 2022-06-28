@@ -1,0 +1,9 @@
+Tissue,XGB,SD
+whole_brain,0.76,0.03
+heart,0.87,0.03
+muscle_skeletal,0.83,0.05
+skin,0.77,0.05
+liver,0.77,0.08
+nerve_tibial,0.77,0.06
+testis,0.71,0.05
+whole_blood,0.81,0.04

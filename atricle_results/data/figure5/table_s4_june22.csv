@@ -1,0 +1,230 @@
+Patient_ID,Tissue,TRACE_model_rank,Num genes TRACE,Expression_rank_candidate,GADO_rank,GADO_HPO_name,GADO_HPO_ID,GADO_HPO_comments,ACMG,plof_rank,missense_rank
+2922,Whole_Brain,101,177,120,127,"microcephaly, status epilepticus","HP_0000252, HP:0002133",,"PM2
+PP3
+PVS1
+PP1",108.5,163
+5148,Whole_Brain,5,154,29,15,Global Developmental delay,HP_0001263,,"PM2
+PP3
+PP1
+PP5",61,45
+5199_b,whole_brain,88,641,149,204,"Spastic paraplegia, Intellectual disability, Seizures","HP:0001258, HP:0001249, HP:0001250",,"""PM2
+PP3
+PS3
+PP1""",284,243
+5199_m,muscle_skeletal,299,641,203,204,"Spastic paraplegia, Intellectual disability, Seizures","HP:0001258, HP:0001249, HP:0001250",,"""PM2
+PP3
+PS3
+PP1""",284,243
+13393,Muscle_Skeletal,85,139,107,91,"	Paraplegia/paraparesis",HP_0010551,"This term (HP:0002313, Spastic paraparesis) cannot be used for gene prioritization. ","PM2
+PP3
+PM4
+PS3
+PP1",82,72
+13414,Whole_Brain,23,203,21,22,Leukodystrophy,HP_0002415,It is one of a family of disorders called Zellweger spectrum disorders which are leukodystrophies.,"PM2
+PP3
+PM1
+PP1",86,144.5
+13498,Whole_Brain,13,205,47,50,Autism,HP_0000717,,"PM2
+PP3
+PS3
+PP1",30,1
+13556,Whole_Brain,7,106,14,7,"strabismus, short stature, Intellectual disability","HP_0000486, HP_0004322, HP_0001249","This term (HP:0006877, obsolete Mental retardation, in some) cannot be used for gene prioritization.","PM2
+PP3
+PP2
+PP1",21,4
+13566,Whole_Brain,14,115,17,5,"strabismus, short stature, Intellectual disability","HP_0000486, HP_0001249, HP:0004322	","This term (HP:0006877, obsolete Mental retardation, in some) cannot be used for gene prioritization. ","PM2
+PP3
+PP2
+PP1",21,4
+13595,muscle_skeletal,303,622,259,430,motor delay,HP_0001270,,"""PM2
+PP3
+PM1
+PP1""",128.5,206
+13700,Whole_Brain,46,121,21,30,"	Abnormal cerebral artery morphology",HP_0009145,"This term (HP:0011834, Moyamoya phenomenon) cannot be used for gene prioritization. GADO suggest using the more generic HPO term-  Abnormal cerebral artery morphology","PM2
+PP3
+PP2
+PP1
+PP5",60,48
+13786,Muscle_Skeletal,1,120,26,3,muscular dystrophy,"	HP_0003560",,"PM2
+PP3
+PVS1
+PP1",92,102
+13859,Whole_Brain,2,112,9,43,Migraine,HP_0002076,,"PM2
+PP3
+PP1
+",8,7
+13863,Whole_Brain,29,106,32,41,Ataxia,HP_0001251,,"PM2
+PP3
+PVS1
+PP1",43,52
+13879,Muscle_Skeletal,54,186,77,196,Muscular dystrophy,HP_0003560,,"PM2
+PS1
+PS3
+PP1
+PP5",177,140
+16009,whole_brain,116,592,288,299,"Intellectual disability	",HP_0001249,,"""PM2
+PP3
+PP2
+PP1
+PP5""",117,44.5
+16012,Whole_Brain,1,438,74,45,Optic Atrophy,HP_0000648,,"PM2
+PP3
+PM1
+PP1",75,79
+16028,Whole_Brain,92,493,215,122, Abnormality of nervous system physiology,HP_0012638,,"PM2
+PP3
+PVS1
+PP1",253.5,331.5
+16032,Whole_Brain,63,156,24,4,Retinal degeneration,HP_0000546,"This term (HP:0008035, Retinitis pigmentosa inversa) cannot be used for gene prioritization. GADO suggest using the more generic HPO term Retinal degeneration","PM2
+PP3
+PVS1
+PP1",47,94
+16114,Whole_Brain,36,111,37,72,Leukodystrophy,HP_0002415,It is one of a family of disorders called Zellweger spectrum disorders which are leukodystrophies.,"PM2
+PP3
+PVS1
+PP1
+",49,41
+16264,Skin,39,93,39,7,Ectodermal dysplasia,HP_0000968,,"PM2
+PP3
+PVS1
+PP1",61,68
+16390,Muscle_Skeletal,119,141,34,15,"	Paraplegia/paraparesis",HP_0010551,"This term (HP:0002313, Spastic paraparesis) cannot be used for gene prioritization. ","PM2
+PP3
+PP1",28,22
+16550,Whole_Brain,4,111,8,110,Agenesis of corpus callosum,HP_0001274,,"PM2
+PP3
+PP1
+",6,12
+28085_t,Testis,49,148,52,63,Azoospermia,HP_0000027,,"PM2
+PP3
+PM4
+PS3
+PP1",43,32
+28085_b,Whole_Brain,52,148,50,63,Azoospermia,HP_0000027,,"PM2
+PP3
+PM4
+PS3
+PP1",43,32
+41621_h,Heart,87,103,60,12,"Ventricular septal defect, Intellectual disability	","HP:0001629
+HP:0001249",,"PM2
+PP3
+PM4
+PP1",74,96
+41621_b,Whole_Brain,36,103,54,12,"Ventricular septal defect, Intellectual disability	","HP:0001629
+HP:0001249",,"PM2
+PP3
+PM4
+PP1",74,96
+1055M,Whole_Brain,8,107,18,39,Behavioral abnormality,HP:0000708,"This term (HP:0025356, Pschomotor retardation) cannot be used for gene prioritization. GADO suggest using the more generic HPO term Behavioral abnormality HP:0000708	","PM2
+PP3
+PM4
+PS3
+PP1",39.5,47
+766M,Whole_Brain,29,155,59,5,Encephalopathy,"HP:0001298	","InThis term (HP:0006976, Necrotizing encephalopathy) cannot be used for gene prioritization. GADO suggest using the more generic HPO term : Encephalopathy","PM2
+PS1
+PM1
+PP1
+PP5",123,96.5
+OB13_m,Muscle_Skeletal,49,233,106,110,Abnormality of mitochondrial metabolism,HP:0003287,,"PM2
+PP3
+PP2
+PP1",123,73
+OB13_b,Whole_Brain,39,233,69,110,Abnormality of mitochondrial metabolism,HP:0003287,,"PM2
+PP3
+PP2
+PP1",123,73
+OB2,Whole_Brain,26,258,38,140,"Microcephaly, motor delay","HP_0000252, HP:0001270",PMR-profound motor retardation,"PM2
+PP3
+PM4
+PS3
+PP1",59,25
+OB3,Whole_Brain,20,258,24,126,"Microcephaly, motor delay","HP_0000252, HP:0001270",PMR-profound motor retardation,"PM2
+PP3
+PM4
+PS3
+PP1",55,19
+OB43,Whole_Brain,64,212,10,6,Microcephaly,HP_0000252,,"PM2
+PP3
+PP2
+PP1",39,108
+Ot1097,Whole_Brain,87,902,87,323,Microcephaly,HP_0000252,,"PM2
+PP3
+PS3
+PP1",11.5,59.5
+Ot1103,Whole_Brain,21,267,43,21,"cerebral atrophy, cerebellar atrophy","HP_0002059, HP:0001272",Progressive Cerebello-Cerebral Atrophy (PCCA) - brain atrophy /cerebellar atrophy/ cerecral atrophy,"PM2
+PP3
+PS3
+PP1",127,69
+Ot1104,Whole_Brain,31,252,43,14,"cerebral atrophy, cerebellar atrophy","HP_0002059, HP:0001272",Progressive Cerebello-Cerebral Atrophy (PCCA) - brain atrophy /cerebellar atrophy/ cerecral atrophy,"PM2
+PP3
+PS3
+PP1",126,74
+Ot1114,Whole_Brain,30,268,34,43,Chronic kidney disease,HP:0012622,,"PM2
+PP3
+PS3
+PP1",122,39
+Ot2812,Muscle_Skeletal,1186,1418,542,668,generalized hypotonia,HP_0001290,,"PM2
+PP3
+PS3
+PP1",796,1046
+Ot2823,Whole_Brain,72,280,79,153,"Intellectual disability	",HP_0001249,"This term (HP:0006877, obsolete Mental retardation, in some) cannot be used for gene prioritization.","PM2
+PP3
+PM4
+PP1",108,85
+Ot5005,Muscle_Skeletal,452,916,665,583,"	Paraplegia/paraparesis,",HP_0010551,"This term (HP:0002313, Spastic paraparesis) cannot be used for gene prioritization. ","PM2
+PP3
+PM4
+PS3
+PP1",517.5,386.5
+Ot5010,Whole_Brain,74,282,216,6,Microcephaly,HP_0000252,,"PM2
+PP3
+PP1",79,110
+OtA4605,Whole_Brain,55,101,41,42,Cardiac conduction abnormality,HP:0031546,,"PM2
+PP3
+PM4
+PS3
+PP1",52,74
+OtA4611,Whole_Brain,133,438,189,389,neural tube defect,HP_0045005,,"PM2
+PP3
+PVS1
+PP1
+PP5",229.5,341
+OtA8152_m,Muscle_Skeletal,10,150,79,158,"genralized hypotonia, Global developmental delay","HP_0001290, HP:0001263",,"PM2
+PP3
+PM4
+PS3
+PP1",54,60
+OtA8152_b,Whole_Brain,116,150,118,158,"generalized hypotonia, Global developmental delay","HP_0001290, HP:0001263",,"PM2
+PP3
+PM4
+PS3
+PP1",54,60
+OtB0548,Skin,3,453,7,1,Ectodermal dysplasia,HP_0000968,,"PM2
+PP3
+PP1
+PP5",62,47.5
+OtB0549,Skin,10,443,5,1,Ectodermal dysplasia,HP_0000968,,"PM2
+PP3
+PP1
+PP5",51.5,50.5
+OtB0550,Skin,11,450,6,1,Ectodermal dysplasia,HP_0000968,,"PM2
+PP3
+PP1
+PP5",53.5,38.5
+OtB0551,Heart,73,143,13,42,Cardiomyopathy,HP_0001638,,"PM2
+PP3
+PS3
+PP1",55,30
+OtB0918,Whole_Brain,11,139,7,68,"Microcephaly, motor delay","HP_0000252, HP:0001270",PMR-profound motor retardation,"PM2
+PP3
+PM4
+PS3
+PP1",27,6.5
+OtB0926,Whole_Brain,7,123,19,4,Ataxia,HP_0001251,,"PM2
+PP3
+PP2
+PP1",55,37
+OtB1305,Heart,30,475,390,394,Atrial fibrillation,HP_0005110,,"PM2
+PP3
+PS3
+PP1",148,6.5
