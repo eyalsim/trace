@@ -11,7 +11,7 @@ This repository contains data, code, and analysis as described in the paper "Pre
   - [Pipeline code](#pipeline-code)
   - [Plots and analyses](#plots-and-analyses)
 - [Requirements](#requirements)
-- [Data](#data)
+- [Data availability](#data-availability)
 
 ### Article results
 Raw results are found in the respective "article_results/figureX/" folders.
@@ -19,7 +19,7 @@ Raw results are found in the respective "article_results/figureX/" folders.
 Trace main pipeline was written in python and can be reviewed and used by running "run_trace.py" from the src folder.
 #### Plots and analyses
 - Plots and analyses were mostly done in R.\
-These are found in the "article_results" folder and can be re-created from article_results/src as long as the [Trace dataset](#data) (both files) is downloaded to article_results/dataset.
+These are found in the "article_results" folder and can be re-created from article_results/src as long as the [Trace dataset](#data-availability) (both files) is downloaded to trace/article_results/dataset and the trace [data](#data-availability) folder is downloaded to trace/.
 - Analyses that were performed as part of the main pipeline can be recreated by running the relevant module via "run_trace.py".
 
 | Figure  | Panel | Script                                         |
@@ -52,7 +52,7 @@ These are found in the "article_results" folder and can be re-created from artic
 
 ### Requirements
 TRACE can be trained using a standard laptop (runtime ranges between ~few minutes/hours for specific prediction or analysis and ~days for the entire pipeline including recreating the features dataset.  
-Required dependencies are detailed in environment.yml.
+Required dependencies are detailed in **environment.yml**.
 
-### Dataset availability
-- The **features dataset** that is required to train all TRACE models can be downloaded from https://sandbox.zenodo.org/record/1075630#.Yrh3P3ZByUl (in both raw form and with missing data imputed and normalized).
+### Data availability
+- A **data** folder and two **features datasets** are required to train all TRACE models and can be downloaded from https://sandbox.zenodo.org/record/1076970#.YrtSAXZByUk.
