@@ -1,5 +1,4 @@
-## TRACE captures the tissue-specific footprints of hereditary disease genes through interpretable machine learning models
-
+## TRACE: Predicting molecular mechanisms of hereditary diseases by using their tissue-selective manifestation
 
 This repository contains data, code, and analysis as described in the paper "Predicting molecular mechanisms of hereditary diseases by using their tissue-selective manifestation" (*add link when published*).
 
