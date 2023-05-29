@@ -1,6 +1,6 @@
 ## TRACE: Predicting molecular mechanisms of hereditary diseases by using their tissue-selective manifestation
 
-This repository contains data, code, and analysis as described in the paper "Predicting molecular mechanisms of hereditary diseases by using their tissue-selective manifestation" (*add link when published*).
+This repository contains data, code, and analysis as described in the paper "Predicting molecular mechanisms of hereditary diseases by using their tissue-selective manifestation" (*https://doi.org/10.15252/msb.202211407*).
 
 
 **Webserver:** A catalog of the tissue-specific risks associated with each protein-coding gene in our dataset is available through the TRACE webserver (https://netbio.bgu.ac.il/trace/).
