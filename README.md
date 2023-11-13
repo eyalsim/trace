@@ -54,4 +54,5 @@ TRACE can be trained using a standard laptop (runtime ranges between ~few minute
 Required dependencies are detailed in **environment.yml**.
 
 ### Data availability
-- A **data** folder and two **features datasets** are required to train all TRACE models and can be downloaded from https://sandbox.zenodo.org/record/1185590#.ZES8M3ZByUk.
+*Important: Link to Zenodo dataset has changed. This is the updated link.*
+- A **data** folder and two **features datasets** are required to train all TRACE models and can be downloaded from https://zenodo.org/records/10115922.
